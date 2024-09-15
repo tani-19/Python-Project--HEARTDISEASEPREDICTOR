@@ -37,4 +37,3 @@ The dataset used in this project is the Heart Disease UCI dataset which contains
 -Slope of the peak exercise ST segment
 -Number of major vessels (0-3) colored by fluoroscopy
 -Thalassemia
-[Uploading heartdisease.pages…]()
